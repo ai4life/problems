@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Open Problems In AGI
 
-You can use the [editor on GitHub](https://github.com/ai4life/problems/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. Limited Experience Problem - Many AI learning methods require huge quantities of data, but humans require few (some times as little as one) example(s) to learn a thing.
+2. Control Problem - How to prevent AGI from doing something?
+3. Consciousness Problem - What is the nature of consciousness, and what algorithm will allow us to reproduce it?
+4. Knowledge Transfer Problem - How do we transfer learning from one task to another.
+5. Ethics Problem - What ethics ought we give our AGI?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai4life/problems/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
