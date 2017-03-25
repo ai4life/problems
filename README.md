@@ -6,4 +6,4 @@
 4. Knowledge Transfer Problem - How do we transfer learning from one task to another.
 5. Ethics Problem - What ethics ought we give our AGI?
 6. [Symbol Grounding Problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem) - How abstract symbols can be grounded in empirical experience.
-7. [Catastrophic Forgetting Problem](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/) - Computer programs that learn to perform tasks also typically forget them very quickly.
+7. [Catastrophic Forgetting Problem](https://en.wikipedia.org/wiki/Catastrophic_interference) - Computer programs that learn to perform tasks also typically forget them very quickly.
