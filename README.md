@@ -8,3 +8,6 @@
 6. [Symbol Grounding Problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem) - How abstract symbols can be grounded in empirical experience.
 7. [Catastrophic Forgetting Problem](https://en.wikipedia.org/wiki/Catastrophic_interference) - Computer programs that learn to perform tasks also typically forget them very quickly.
 8. Black Box Problem - An understanding of what a neural network is doing can be difficult and often only guessed at.
+
+## References
+[Unsolved Problems in AI](https://medium.com/ai-roadmap-institute/unsolved-problems-in-ai-38f4ce18921d)
