@@ -8,6 +8,13 @@
 6. [Symbol Grounding Problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem) - How abstract symbols can be grounded in empirical experience.
 7. [Catastrophic Forgetting Problem](https://en.wikipedia.org/wiki/Catastrophic_interference) - Computer programs that learn to perform tasks also typically forget them very quickly.
 8. Black Box Problem - An understanding of what a neural network is doing can be difficult and often only guessed at.
+9. Bias Problem  - 
+10. Cost of Errors - 
+11. Entanglement Problem - 
+12. Brittle Dependencies - 
+13. Freshness - 
+14. Hidden Feedback Loops - 
 
 ## References
 [Unsolved Problems in AI](https://medium.com/ai-roadmap-institute/unsolved-problems-in-ai-38f4ce18921d)
+[Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
