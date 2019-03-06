@@ -17,9 +17,9 @@
 
 https://ai4life.github.io/problems/
 
+A documentary based on Ray Kurzweil's book, The Singularity Is Near.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y5jiGeQBLTk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## References
 [Unsolved Problems in AI](https://medium.com/ai-roadmap-institute/unsolved-problems-in-ai-38f4ce18921d)
